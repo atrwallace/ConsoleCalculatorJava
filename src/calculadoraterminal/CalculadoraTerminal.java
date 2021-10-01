@@ -32,7 +32,7 @@ public class CalculadoraTerminal {
             System.out.println("Deseja continuar a realizar operações? (use s/n)");
             String res = teclado.next();
             if (res.equals("s")) {
-// beautiful
+
             } else {
                 System.out.println("Obrigado por usar a calculadora");
                 System.exit(0);
